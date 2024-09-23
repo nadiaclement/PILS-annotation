@@ -1,4 +1,4 @@
-# Welcome to the landing page for the Spoken L2 Annotation Project!
+# Welcome to the landing page for the PILS Annotation Project!
 
 ### Tools for annotators
 Below are various links to resources for annotators:
